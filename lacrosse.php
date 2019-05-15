@@ -1,4 +1,4 @@
- flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-opensans-n4-active wf-active" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html class="en js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths wf-opensans-n4-active wf-active" style=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1,user-scalable=1">
 <meta name="robots" content="NOINDEX, NOFOLLOW, NOARCHIVE, NOODP, NOIMAGEINDEX, NOSNIPPET">
 <title>4K Sports - Live Stream</title>
@@ -6,7 +6,7 @@
 <script src="./index_files/modernizr.js"></script>
 <link href="./index_files/css.css" rel="stylesheet">
 <link href="./index_files/css1.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" type="image/jpg" href="./index_files/https://cdn.wallpapersafari.com/29/97/SgwxVq.jpg">
+<link rel="shortcut icon" type="image/png" href="./index_files/logo1.png">
 <meta class="foundation-mq-small">
 <meta class="foundation-mq-medium">
 <meta class="foundation-mq-large">
@@ -22,8 +22,8 @@
             <div class="row">
                 <div class="large-12 columns">
                     <div class="row">
-                        <div class="logo logo-triangle"><img src="./index_files/https://cdn.wallpapersafari.com/29/97/SgwxVq.jpg" alt="">
-                            <p><span class="logo-text">SPORTS LACROSSE</span></p>
+                        <div class="logo logo-triangle"><img src="./index_files/logo.png" alt="">
+                            <p><span class="logo-text">MAXPREPS</span></p>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <p>Starts in <span id="countdown"></span></p>
                     </div>
                     <div class="popup-container" style="display: none;">
-                        <div class="popup-text">sports LACROSSE is only available for registered users. FREE Create an account to get unlimited access. </div>
+                        <div class="popup-text">MAXPREPS is only available for registered users. FREE Create an account to get unlimited access. </div>
                         <a href="http://look.djfiln.com/offer?prod=224&ref=5174732" target="_blank" class="x-domain clone">
                             <div class="popup-button">Create my account</div>
                         </a>
@@ -87,7 +87,6 @@
                     families: ['Open Sans']
                 }
             }
-
         );
         $(document).foundation();
     </script>
@@ -114,23 +113,19 @@
     padding: 10px;
     border-radius: 5px 0 0 0;
 }
-
 .online-icon {
     display: inline-block;
     width: 14px;
     height: 20px;
 }
-
 .online-text {
     width: 145px;
     float: right;
     display: inline-block;
 }
-
 .online-text p {
     margin: 0;
 }
-
 </style> <div class="online"> <span class="online-icon"></span> <div class="online-text"> <p>5480 Members Online Now</p> </div> </div> </div></footer> </center></center>
 
 </body></html>
